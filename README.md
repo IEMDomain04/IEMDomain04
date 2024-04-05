@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### Yo!👋
 It's Me, Myself, and I. This is my Github Profile.
-                    Emojis
               🔭🌱👯🤔💬📫😄⚡ 
 
 
