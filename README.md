@@ -16,5 +16,5 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-
-<h3 align="left">I started by making random websites, but I've discovered that there is much more than just making random websites.</br></br> I'm motivated to work hard and overcome my laziness.</h3>
+<h3 align="left">> I started by making random websites, but I've discovered that there's much more than that.</br> 
+> I'm motivated to work hard and overcome my laziness.</h3>
