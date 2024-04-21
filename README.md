@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif">
 
 - 🚶 Fun fact **I like to walk**
-  
+- I started by **making random websites**, but I've discovered that there's much more than that.
+- I'm motivated to **work hard** and **overcome my laziness.**
+
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -15,6 +17,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-
-<h3 align="left">> I started by making random websites, but I've discovered that there's much more than that.</br> 
-> I'm motivated to work hard and overcome my laziness.</h3>
