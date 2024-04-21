@@ -17,4 +17,4 @@
 </p>
 
 
-<h3 align="left">I have the energy to Grind. A Road to overcome my Laziness.</h3>
+<h3 align="left">I started by making random websites, but I've discovered that there is much more than just making random websites.</br></br> I'm motivated to work hard and overcome my laziness.</h3>
