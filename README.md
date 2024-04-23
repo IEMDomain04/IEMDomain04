@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Man 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">💻🤔 I like to do Something that Catches my Interest. 🤔💻</h3>
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif">
