@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif">
 
 - 🚶 Fun fact **I like to walk**
-- 💻 I started by **making random websites**, but I've discovered that there's much more than that.
+- 💻 I started by **making random websites**, but I've discovered that <br>there's much more than that.
 - 😪 I'm motivated to **work hard** and **overcome my laziness.**
 
 <p align="left">  
