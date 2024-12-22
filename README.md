@@ -6,6 +6,8 @@
 - 🚶 Fun fact **I like to walk**
 - 💻 I started by **making random websites**, but I've discovered that <br>there's much more than that.
 - 😪 I'm motivated to **work hard** and **overcome my laziness.**
+- HackFest 2024 FlutterFlow 2nd Placer
+- 13th IT Olympics Web Design
 
 <p align="left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
