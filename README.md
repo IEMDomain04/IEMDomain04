@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">💻 A student who enjoys doing something.. 💻</h3>
+<h3 align="center">💻 A Computer Science Student who enjoys implementing ideas to life.. 💻</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif">
 
