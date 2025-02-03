@@ -11,9 +11,12 @@
 
 **I am currently:**<br>
 - Practicing NextJS
-- Practicing Astro<br><br>
+- Practicing Astro
+- Learning Data Science
+- Learning Cybersecurity<br><br>
 **because..**<br>
 - I don't want to be a boomer.
+- I don't want to waste time.
 
 <p align="left">  
     <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/>
