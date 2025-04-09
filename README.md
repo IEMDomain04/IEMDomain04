@@ -20,7 +20,7 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🎨 **UMAK 13th IT Olympics (Web Design)** – Participant  
+- 🎨 **UMAK 13th IT Olympics (Web Design)** – *PLM Representative*
 - 🥈 **HackFest 2024 FlutterFlow** – *2nd Place, Team Flux*
 
 ---
