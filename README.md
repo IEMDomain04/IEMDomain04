@@ -27,9 +27,10 @@
 
 ### 🚀 Currently Exploring
 
-- 🌐 Frontend Frameworks: **Next.js**, **Astro**
-- 📊 Data Science: **Python**, **Pandas**, **Machine Learning**
-- 🔐 Cybersecurity: Fundamentals & Ethical Hacking
+- Networks and Communications
+- Data Science and Analytics
+- Cybersecurity
+- Machine Learning
 - AI
 
 > Why? — I don't want to be a boomer 😎
