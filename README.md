@@ -11,9 +11,9 @@
 ### 🌟 About Me
 
 - 👣 **Fun Fact:** I enjoy long walks—it's my ultimate reset button.
-- 🧑‍💻 **Origin Story:** Started by building random websites and fell in love with the endless possibilities of tech.
+- 🧑‍💻 **Origin Story:** Started by building random websites and then notice the endless possibilities of tech.
 - 🎯 **Mission:** Dedicated to continuous growth and building consistent habits.
-- 🧩 **Passion:** I love solving complex problems and creating products that matter.
+- 🧩 **Passion:** I love solving complex problems and creating products that matter and help the community.
 
 ---
 
@@ -49,18 +49,6 @@ I am diving deep into the infrastructure and intelligence of modern tech:
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iemdomain04&show_icons=true&locale=en&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemdomain04&layout=compact&hide_progress=true&theme=tokyonight" height="150" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iemdomain04&theme=tokyonight" height="150" alt="streak graph" />
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iemdomain04&label=Profile%20Views&color=0e75b6&style=flat-square" alt="iemdomain04" />
 </p>
