@@ -6,6 +6,12 @@
   <img src="https://cdn.wallpapersafari.com/92/67/xhg7O9.gif" alt="Coding" width="400"/>
 </p>
 
+I am a graduating Computer Science student passionate about building, deploying, and maintaining real-world applications. My technical expertise includes:
+
+* **🧠 Machine Learning:** Hands-on experience building and training deep learning models for research-driven projects.
+* **🎨 UI/UX & Web Dev:** Proven track record designing clean, user-centric interfaces and developing robust web applications.
+* **🌐 Networking:** Practical experience designing and configuring network environments.
+
 ---
 
 ### 🌟 About Me
