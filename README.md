@@ -27,6 +27,7 @@ I am a graduating Computer Science student passionate about building, deploying,
 ### 🌟 About Me
 
 - 👣 **Fun Fact:** I enjoy long walks—it's my ultimate reset button.
+- 📖 **Q1 Journal:** PLM's First Ever Q1 Journal Publication—Undergraduate Thesis got accepted for a Q1 Publication.
 - 🧑‍💻 **Origin Story:** Started by building random websites and then notice the endless possibilities of tech.
 - 🎯 **Mission:** Dedicated to continuous growth and building consistent habits.
 - 🧩 **Passion:** I love solving complex problems and creating products that matter and help the community.
@@ -39,7 +40,6 @@ I am diving deep into the infrastructure and intelligence of modern tech:
 
 * 🌐 Networks & Communications
 * 📊 Data Science & Analytics
-* 🛡️ Cybersecurity
 * 🤖 Machine Learning & AI
 
 > *"I'm learning this because I refuse to get left behind."* 😎
