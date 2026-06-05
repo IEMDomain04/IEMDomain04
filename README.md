@@ -1,4 +1,4 @@
-<h3 align="center">💻 Turning Ideas Into Reality Through Code</h3>
+<h3 align="center">💻 Turning Ideas Into Reality Through Code 🤖</h3>
 
 <br>
 
@@ -16,18 +16,18 @@
 
 <br>
 
-I am a graduating Computer Science student passionate about building, deploying, and maintaining real-world applications. My technical expertise includes:
+I am a graduating Computer Science student passionate about the intersection of software engineering and artificial intelligence. My goal is to build, deploy, and maintain scalable, real-world AI applications. My technical foundation includes:
 
-* **🧠 Machine Learning:** Hands-on experience building and training deep learning models for research-driven projects.
-* **🎨 UI/UX & Web Dev:** Proven track record designing clean, user-centric interfaces and developing robust web applications.
-* **🌐 Networking:** Practical experience designing and configuring network environments.
+* **🧠 AI & Machine Learning:** Hands-on experience developing deep learning models for research-driven projects, applications, and translating data into intelligent features.
+* **🌐 Full-Stack & UI/UX:** A proven track record of designing clean, user-centric interfaces and building robust web applications to bring AI models to life.
+* **⚡ Infrastructure & Networks:** Practical experience in network configuration, laying the groundwork for optimized, distributed computing and model deployment.
 
 ---
 
 ### 🌟 About Me
 
-- 👣 **Fun Fact:** I enjoy long walks—it's my ultimate reset button.
 - 📖 **Q1 Journal:** PLM's First Ever Q1 Journal Publication—Undergraduate Thesis got accepted for a Q1 Publication.
+- 👣 **Fun Fact:** I enjoy long walks—it's my ultimate reset button.
 - 🧑‍💻 **Origin Story:** Started by building random websites and then notice the endless possibilities of tech.
 - 🎯 **Mission:** Dedicated to continuous growth and building consistent habits.
 - 🧩 **Passion:** I love solving complex problems and creating products that matter and help the community.
@@ -36,11 +36,11 @@ I am a graduating Computer Science student passionate about building, deploying,
 
 ### 🚀 Currently Exploring
 
-I am diving deep into the infrastructure and intelligence of modern tech:
+I am diving deep into the infrastructure and cognitive layers of modern technology:
 
-* 🌐 Networks & Communications
-* 📊 Data Science & Analytics
-* 🤖 Machine Learning & AI
+* 🤖 LLMs & GenAI: Fine-tuning Large Language Models, implementing Retrieval-Augmented Generation (RAG), and building Agentic AI systems.
+* 📊 Data Engineering & Analytics: Designing robust workspace pipelines, cleaning complex datasets, and translating raw data into actionable insights.
+* 🌐 High-Performance Networking: Optimizing data pipelines and communication protocols for distributed systems hosting self-hosted LLMs.
 
 > *"I'm learning this because I refuse to get left behind."* 😎
 
@@ -62,6 +62,8 @@ I am diving deep into the infrastructure and intelligence of modern tech:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
