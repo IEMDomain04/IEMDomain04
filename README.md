@@ -16,7 +16,7 @@
 
 <br>
 
-I am a graduating Computer Science student passionate about the intersection of software engineering and artificial intelligence. My goal is to build, deploy, and maintain scalable, real-world AI applications. My technical foundation includes:
+Magna Cum Laude Computer Science graduate passionate about the intersection of software engineering and artificial intelligence. My goal is to build, deploy, and maintain scalable, real-world AI applications. My technical foundation includes:
 
 * **🧠 AI & Machine Learning:** Hands-on experience developing deep learning models for research-driven projects, applications, and translating data into intelligent features.
 * **🌐 Full-Stack & UI/UX:** A proven track record of designing clean, user-centric interfaces and building robust web applications to bring AI models to life.
